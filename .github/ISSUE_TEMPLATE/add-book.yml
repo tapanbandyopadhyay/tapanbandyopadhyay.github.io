@@ -1,0 +1,62 @@
+name: "📚 নতুন বই যোগ করুন"
+description: "ওয়েবসাইটে একটি নতুন বই যোগ করতে এই ফর্মটি পূরণ করুন।"
+title: "বই: [বইয়ের নাম এখানে লিখুন]"
+labels: ["book"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: "Bengali Title"
+      description: "বইয়ের বাংলা নাম (যেমন: বীরবল)"
+      placeholder: "বইয়ের নাম"
+    validations:
+      required: true
+
+  - type: input
+    id: tag
+    attributes:
+      label: "Tag"
+      description: "ধরন বা সংক্ষিপ্ত বিবরণ (যেমন: ঐতিহাসিক উপন্যাস)"
+      placeholder: "উপন্যাস"
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "বইটি সম্পর্কে ৩-৪ লাইনের বিবরণ"
+      placeholder: "বইয়ের সংক্ষিপ্ত পরিচয় লিখুন..."
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: "Link"
+      description: "বইটি কোথায় পাওয়া যাবে তার লিঙ্ক"
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: image
+    attributes:
+      label: "Image"
+      description: |
+        বইয়ের প্রচ্ছদের ছবি এখানে drag & drop করুন অথবা paste করুন।
+        GitHub স্বয়ংক্রিয়ভাবে ছবি আপলোড করবে এবং একটি লিঙ্ক তৈরি করবে।
+        সেই লিঙ্কটি এখানে থাকলেই হবে।
+      placeholder: "ছবি এখানে drag করুন বা paste করুন..."
+    validations:
+      required: false
+
+  - type: input
+    id: order
+    attributes:
+      label: "Order"
+      description: "কোন ক্রমে দেখাতে চান? (১ = প্রথম, ২ = দ্বিতীয়...)"
+      placeholder: "1"
+    validations:
+      required: false
+      
