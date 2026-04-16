@@ -1,0 +1,14 @@
+/* TEAM */
+Author: Tapan Bandyopadhyay
+Role: Bengali Novelist, Creator of Gargi, Sahitya Akademi Winner
+Location: West Bengal, India
+
+Developer: Priyam Kesh (Polarith Web Services)
+Role: Lead AI & Web Developer
+Contact: priaxom.ai@outlook.com
+
+/* SITE */
+Last update: 2026-04-16
+Language: Bengali, English
+Standards: HTML5, CSS3, JSON-LD, Schema.org
+Components: Glassmorphism UI, Custom Translation Engine, Search Engine Optimized
