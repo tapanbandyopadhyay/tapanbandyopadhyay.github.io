@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tapanbandyopadhyay.github.io/sitemap.xml
