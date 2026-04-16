@@ -1,0 +1,30 @@
+=========================================================
+STRICT COPYRIGHT AND PROPRIETARY SOFTWARE NOTICE
+=========================================================
+Project: Tapan Bandyopadhyay Official Website
+Domain: https://tapanbandyopadhyay.github.io
+Developer & Webmaster: Priyam Kesh (Polarith Web Services)
+Copyright © 2026 Tapan Bandyopadhyay & Polarith Web Services. All Rights Reserved.
+
+WARNING: PROPRIETARY AND CLOSED-SOURCE MATERIAL
+---------------------------------------------------------
+Although this repository is hosted publicly on GitHub for deployment purposes, the source code, design elements (including Glassmorphism UI), custom translation engines, structural layout, text, and images within this repository are STRICTLY PROPRIETARY AND CLOSED-SOURCE.
+
+1. NO COPYING ALLOWED: 
+You are strictly PROHIBITED from copying, cloning, downloading, reproducing, or extracting any HTML, CSS, JavaScript, or JSON-LD code from this repository for use in your own projects, whether personal or commercial.
+
+2. NO MODIFICATION OR DISTRIBUTION: 
+You may not modify, adapt, translate, reverse engineer, decompile, or disassemble any part of this website or its source code. Forking this repository for the purpose of reusing its code is strictly forbidden.
+
+3. CONTENT OWNERSHIP: 
+All biographical data, literary catalogs, and personal images belong exclusively to Tapan Bandyopadhyay. All UI/UX design, backend logic, and SEO architecture belong exclusively to Priyam Kesh (Polarith Web Services).
+
+4. ZERO TOLERANCE POLICY:
+Any unauthorized use, reproduction, or scraping of this code or content will be met with immediate legal action. We actively monitor the web for stolen code. Infringements will result in immediate DMCA (Digital Millennium Copyright Act) takedown notices issued to your hosting provider and domain registrar without prior warning.
+
+By accessing this repository or the live website, you agree to abide by these strict terms. If you do not agree, you must exit immediately.
+
+For official inquiries or infrastructure permissions, contact:
+Email: priaxom.ai@outlook.com
+Entity: Polarith Web Services
+=========================================================
